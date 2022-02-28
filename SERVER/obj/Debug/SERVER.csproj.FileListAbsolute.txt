@@ -1,0 +1,62 @@
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CHAT\bin\Debug\CHAT.exe.config
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CHAT\bin\Debug\CHAT.exe
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CHAT\bin\Debug\CHAT.pdb
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CHAT\obj\Debug\SERVER.csprojResolveAssemblyReference.cache
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CHAT\obj\Debug\CHAT.Form1.resources
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CHAT\obj\Debug\CHAT.Properties.Resources.resources
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CHAT\obj\Debug\SERVER.csproj.GenerateResource.cache
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CHAT\obj\Debug\SERVER.csproj.CoreCompileInputs.cache
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CHAT\obj\Debug\CHAT.exe
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CHAT\obj\Debug\CHAT.pdb
+C:\Users\vietm\Desktop\CHAT qua socket C\CHAT\CHAT\obj\Debug\CHAT.exe
+C:\Users\vietm\Desktop\CHAT qua socket C\CHAT\CHAT\obj\Debug\CHAT.pdb
+C:\Users\vietm\source\repos\CHAT\CHAT\bin\Debug\CHAT.exe.config
+C:\Users\vietm\source\repos\CHAT\CHAT\bin\Debug\CHAT.exe
+C:\Users\vietm\source\repos\CHAT\CHAT\bin\Debug\CHAT.pdb
+C:\Users\vietm\source\repos\CHAT\CHAT\obj\Debug\SERVER.csprojAssemblyReference.cache
+C:\Users\vietm\source\repos\CHAT\CHAT\obj\Debug\CHAT.Properties.Resources.resources
+C:\Users\vietm\source\repos\CHAT\CHAT\obj\Debug\SERVER.csproj.GenerateResource.cache
+C:\Users\vietm\source\repos\CHAT\CHAT\obj\Debug\SERVER.csproj.CoreCompileInputs.cache
+C:\Users\vietm\source\repos\CHAT\CHAT\obj\Debug\CHAT.exe
+C:\Users\vietm\source\repos\CHAT\CHAT\obj\Debug\CHAT.pdb
+C:\Users\vietm\source\repos\CHAT\CHAT\obj\Debug\SERVER.Server.resources
+C:\Users\vietm\source\repos\CHAT\SERVER\bin\Debug\CHAT.exe.config
+C:\Users\vietm\source\repos\CHAT\SERVER\bin\Debug\CHAT.exe
+C:\Users\vietm\source\repos\CHAT\SERVER\bin\Debug\CHAT.pdb
+C:\Users\vietm\source\repos\CHAT\SERVER\obj\Debug\SERVER.csprojAssemblyReference.cache
+C:\Users\vietm\source\repos\CHAT\SERVER\obj\Debug\SERVER.Server.resources
+C:\Users\vietm\source\repos\CHAT\SERVER\obj\Debug\CHAT.Properties.Resources.resources
+C:\Users\vietm\source\repos\CHAT\SERVER\obj\Debug\SERVER.csproj.GenerateResource.cache
+C:\Users\vietm\source\repos\CHAT\SERVER\obj\Debug\SERVER.csproj.CoreCompileInputs.cache
+C:\Users\vietm\source\repos\CHAT\SERVER\obj\Debug\CHAT.exe
+C:\Users\vietm\source\repos\CHAT\SERVER\obj\Debug\CHAT.pdb
+C:\Users\vietm\source\repos\Exercise Operating System\SERVER\bin\Debug\CHAT.exe.config
+C:\Users\vietm\source\repos\Exercise Operating System\SERVER\bin\Debug\CHAT.exe
+C:\Users\vietm\source\repos\Exercise Operating System\SERVER\bin\Debug\CHAT.pdb
+C:\Users\vietm\source\repos\Exercise Operating System\SERVER\obj\Debug\SERVER.csprojAssemblyReference.cache
+C:\Users\vietm\source\repos\Exercise Operating System\SERVER\obj\Debug\SERVER.Server.resources
+C:\Users\vietm\source\repos\Exercise Operating System\SERVER\obj\Debug\CHAT.Properties.Resources.resources
+C:\Users\vietm\source\repos\Exercise Operating System\SERVER\obj\Debug\SERVER.csproj.GenerateResource.cache
+C:\Users\vietm\source\repos\Exercise Operating System\SERVER\obj\Debug\SERVER.csproj.CoreCompileInputs.cache
+C:\Users\vietm\source\repos\Exercise Operating System\SERVER\obj\Debug\CHAT.exe
+C:\Users\vietm\source\repos\Exercise Operating System\SERVER\obj\Debug\CHAT.pdb
+C:\Users\vietm\source\repos\B24 - PTTung - HVViet\SERVER\bin\Debug\CHAT.exe.config
+C:\Users\vietm\source\repos\B24 - PTTung - HVViet\SERVER\bin\Debug\CHAT.exe
+C:\Users\vietm\source\repos\B24 - PTTung - HVViet\SERVER\bin\Debug\CHAT.pdb
+C:\Users\vietm\source\repos\B24 - PTTung - HVViet\SERVER\obj\Debug\SERVER.csprojAssemblyReference.cache
+C:\Users\vietm\source\repos\B24 - PTTung - HVViet\SERVER\obj\Debug\SERVER.Server.resources
+C:\Users\vietm\source\repos\B24 - PTTung - HVViet\SERVER\obj\Debug\CHAT.Properties.Resources.resources
+C:\Users\vietm\source\repos\B24 - PTTung - HVViet\SERVER\obj\Debug\SERVER.csproj.GenerateResource.cache
+C:\Users\vietm\source\repos\B24 - PTTung - HVViet\SERVER\obj\Debug\SERVER.csproj.CoreCompileInputs.cache
+C:\Users\vietm\source\repos\B24 - PTTung - HVViet\SERVER\obj\Debug\CHAT.exe
+C:\Users\vietm\source\repos\B24 - PTTung - HVViet\SERVER\obj\Debug\CHAT.pdb
+D:\Study\College Stuff\Nam3\Ly Thuyet He Dieu Hanh\BTL\B24-HVViet-PTTung\Source\SERVER\bin\Debug\CHAT.exe.config
+D:\Study\College Stuff\Nam3\Ly Thuyet He Dieu Hanh\BTL\B24-HVViet-PTTung\Source\SERVER\bin\Debug\CHAT.exe
+D:\Study\College Stuff\Nam3\Ly Thuyet He Dieu Hanh\BTL\B24-HVViet-PTTung\Source\SERVER\bin\Debug\CHAT.pdb
+D:\Study\College Stuff\Nam3\Ly Thuyet He Dieu Hanh\BTL\B24-HVViet-PTTung\Source\SERVER\obj\Debug\SERVER.csprojAssemblyReference.cache
+D:\Study\College Stuff\Nam3\Ly Thuyet He Dieu Hanh\BTL\B24-HVViet-PTTung\Source\SERVER\obj\Debug\SERVER.Server.resources
+D:\Study\College Stuff\Nam3\Ly Thuyet He Dieu Hanh\BTL\B24-HVViet-PTTung\Source\SERVER\obj\Debug\CHAT.Properties.Resources.resources
+D:\Study\College Stuff\Nam3\Ly Thuyet He Dieu Hanh\BTL\B24-HVViet-PTTung\Source\SERVER\obj\Debug\SERVER.csproj.GenerateResource.cache
+D:\Study\College Stuff\Nam3\Ly Thuyet He Dieu Hanh\BTL\B24-HVViet-PTTung\Source\SERVER\obj\Debug\SERVER.csproj.CoreCompileInputs.cache
+D:\Study\College Stuff\Nam3\Ly Thuyet He Dieu Hanh\BTL\B24-HVViet-PTTung\Source\SERVER\obj\Debug\CHAT.exe
+D:\Study\College Stuff\Nam3\Ly Thuyet He Dieu Hanh\BTL\B24-HVViet-PTTung\Source\SERVER\obj\Debug\CHAT.pdb
